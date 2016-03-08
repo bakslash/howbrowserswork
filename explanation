@@ -1,6 +1,0 @@
-introduction
-they are many different types of browser safari mozilla goocle chrome internet explorer etc.the main function of a browser is to preent the web resource you choose by requesting it from the server and displaying it in the browser.the browser interprates and displays HTML files in specified specifications maintained by W3C www consortium organisation
-Browsers components
-the main browser components are-user interface,browser engine,rendering engine,UI backend,networking,data storage and javascript interprater
-Browser works on client on client server model,a user computer works as a client which can send and recieve data from the server. when a web page is requested by a user, the browser contacts the requested server where the website is stored, fteches and interprates the requested files then displays the web page on the display screen
-the whole process takes place in these steps-1contact to DNS server user enters URL browser contacts DNS server which stores the IP adress associated with corresponding domain names DNS server takes the domain name from the browser and returns corresponding Ip address to the browser,2-contact to server after the server getting Ip address of the server for requested webpage the browser send a request to that server for desired files ,3-HTTP protocols are then used to transfer the webpage named to the browser
